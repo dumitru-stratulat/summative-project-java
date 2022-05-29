@@ -78,17 +78,6 @@ options: list, select and search.
 On starting the program, the following menu should be displayed to the console:
 
 
-----------------------
-Booker prize menu
-----------------------
-List ................ 1
-Select .............. 2
-Search .............. 3
-Exit................. 0
-----------------------
-
-Enter choice:>
-
 The User can simply exit the program by entering zero. The three other menu options allow the User to
 inspect the information in the data set (note again that this program is entirely _read-only_ and there is no
 requirement to add, update or delete any part of the data set). The necessary interaction of the program
