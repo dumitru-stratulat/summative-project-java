@@ -2,8 +2,6 @@
 
 # Deadline for submission 16:00, Friday 22nd April, 2022
 
-# Please read all the assignment specification carefully first, before asking your tutor any questions.
-
 # General information
 
 You are required to submit your work via the dedicated assignment link in the ‘week 24’ folder of the
